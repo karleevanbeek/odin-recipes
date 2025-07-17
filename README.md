@@ -1,1 +1,2 @@
 # odin-recipes
+Hi, My name is Karlee and this is my HTML recipe page for TOP. I feel like the main thing that I have been focusing on so far is muscle memory. I relied on copilot so much in the past when I was writing HTML when I cam back, I couldn't even remember the boilerplate. I had fun with this little project and chose to do it on some sourdough recipes that I really like!
